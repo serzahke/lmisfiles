@@ -4,158 +4,244 @@
     {
       "type": "Feature",
       "properties": {
-        "weight": 0.4
+        "province": "Alborz",
+        "weight": 54.32
       },
       "geometry": {
-        "coordinates": [
-          51.97516897224551,
-          34.761700829505514
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [50.578299, 35.785298]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 0.6
+        "province": "Ardabil",
+        "weight": 12.87
       },
       "geometry": {
-        "coordinates": [
-          54.48903211733489,
-          32.960485096822765
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [48.691615, 38.238091]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 12
+        "province": "Bushehr",
+        "weight": 28.45
       },
       "geometry": {
-        "coordinates": [
-          56.138581592511684,
-          35.795908150129705
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [50.844135, 28.922041]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 2
+        "province": "Chaharmahal and Bakhtiari",
+        "weight": 73.21
       },
       "geometry": {
-        "coordinates": [
-          49.91280133836099,
-          32.77229392018691
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [50.865556, 32.323458]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 43
+        "province": "East Azerbaijan",
+        "weight": 64.78
       },
       "geometry": {
-        "coordinates": [
-          47.489177710044686,
-          35.319681545483064
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [46.407076, 37.916302]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 2
+        "province": "Isfahan",
+        "weight": 91.54
       },
       "geometry": {
-        "coordinates": [
-          48.033970333532494,
-          38.33304264116873
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [51.673058, 32.651921]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 0.7
+        "province": "Fars",
+        "weight": 35.29
       },
       "geometry": {
-        "coordinates": [
-          58.397222625166904,
-          34.192680274934645
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [53.059738, 29.104381]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 0.2
+        "province": "Gilan",
+        "weight": 20.13
       },
       "geometry": {
-        "coordinates": [
-          54.51738715709553,
-          30.066845262966964
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [49.331494, 37.277982]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 0.32
+        "province": "Golestan",
+        "weight": 42.17
       },
       "geometry": {
-        "coordinates": [
-          58.36410052522257,
-          31.56368159418186
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [55.150818, 37.215406]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 3
+        "province": "Hamadan",
+        "weight": 17.84
       },
       "geometry": {
-        "coordinates": [
-          59.875437721892354,
-          28.896043106657118
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [48.514517, 34.799878]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 2
+        "province": "Hormozgan",
+        "weight": 83.67
       },
       "geometry": {
-        "coordinates": [
-          56.252305015876004,
-          28.08159779128171
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [56.746314, 27.089222]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "weight": 1
+        "province": "Ilam",
+        "weight": 5.75
       },
       "geometry": {
-        "coordinates": [
-          52.07988014544671,
-          28.78579124450495
-        ],
-        "type": "Point"
+        "type": "Point",
+        "coordinates": [46.355450, 33.637391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Kerman",
+        "weight": 68.02
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57.425540, 30.283937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Kermanshah",
+        "weight": 40.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.065735, 34.330523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Khuzestan",
+        "weight": 95.71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.471898, 31.436014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Kohgiluyeh and Boyer-Ahmad",
+        "weight": 21.43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.556976, 30.722900]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Kurdistan",
+        "weight": 32.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.065678, 35.354464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Lorestan",
+        "weight": 53.90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.365978, 33.554883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Markazi",
+        "weight": 74.24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.861846, 34.120308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Mazandaran",
+        "weight": 19.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52.899200, 36.545444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "North Khorasan",
+        "weight": 7.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [56.265788, 37.468319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "province": "Qazvin",
+        "weight": 29.17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.004440, 36.268886]
       }
     }
-  ]
+]
 }
