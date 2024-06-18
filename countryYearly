@@ -1,0 +1,54 @@
+[
+	{
+		"year": 1402,
+		"start_date": "2023-03-21",
+		"end_date": "2024-03-19",
+		"unemployed_rate": 9.01,
+		"employed_rate": 37.18,
+		"economic_participation_rate": 40.86,
+		"unemployed_rate_age_15_24": 22.61,
+		"py_unemployed_rate": 9.20,
+		"py_employed_rate": 37.18,
+		"py_economic_participation_rate": 40.95,
+		"py_unemployed_rate_age_15_24": 23.67
+	},
+	{
+		"year": 1401,
+		"start_date": "2022-03-21",
+		"end_date": "2023-03-20",
+		"unemployed_rate": 9.20,
+		"employed_rate": 37.18,
+		"economic_participation_rate": 40.95,
+		"unemployed_rate_age_15_24": 23.67,
+		"py_unemployed_rate": 9.61,
+		"py_employed_rate": 37.30,
+		"py_economic_participation_rate": 41.26,
+		"py_unemployed_rate_age_15_24": 23.70
+	},
+	{
+		"year": 1399,
+		"start_date": "2020-03-20",
+		"end_date": "2021-03-20",
+		"unemployed_rate": 9.61,
+		"employed_rate": 37.30,
+		"economic_participation_rate": 41.26,
+		"unemployed_rate_age_15_24": 23.70,
+		"py_unemployed_rate": 10.65,
+		"py_employed_rate": 39.36,
+		"py_economic_participation_rate": 44.06,
+		"py_unemployed_rate_age_15_24": 26.03
+	},
+	{
+		"year": 1398,
+		"start_date": "2019-03-21",
+		"end_date": "2020-03-19",
+		"unemployed_rate": 10.65,
+		"employed_rate": 39.36,
+		"economic_participation_rate": 44.06,
+		"unemployed_rate_age_15_24": 26.03,
+		"py_unemployed_rate": 0.00,
+		"py_employed_rate": 0.00,
+		"py_economic_participation_rate": 0.00,
+		"py_unemployed_rate_age_15_24": 0.00
+	}
+]
